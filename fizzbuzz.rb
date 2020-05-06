@@ -5,11 +5,12 @@ def fizzbuzz(int)
     return "Fizz"
   elsif int % 5 == 0
     return "Buzz"
-  elsif (int % 3 == 0) && (int % 5 == 0)
+  elsif true && true
     return "FizzBuzz"
   else
     puts nil
   end
+  if 
 end
 
 fizzbuzz(3)
