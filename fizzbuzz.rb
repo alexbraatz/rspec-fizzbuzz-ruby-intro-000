@@ -10,7 +10,7 @@ def fizzbuzz(int)
   else
     puts nil
   end
-  if 
+  if
 end
 
 fizzbuzz(3)
